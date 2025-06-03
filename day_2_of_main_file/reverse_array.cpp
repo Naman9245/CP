@@ -21,10 +21,7 @@ void reverseArray(int arr[],int n){
     }
     cout<<endl;
 
-
 }
-
-
 
 int main(){
     int arr[6]={1,35,75,46,43,56};
@@ -53,11 +50,5 @@ int main(){
     cout<<"Elements reverse ho chuke hai arr:"<<endl;
 
     printArray(arr,6);
-    
-    
-    
-
-
-
 
 }
