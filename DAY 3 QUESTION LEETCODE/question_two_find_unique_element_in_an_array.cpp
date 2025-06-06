@@ -12,7 +12,7 @@ int findUnique(int arr[], int n) {
 }
 
 int main() {
-    int arr[] = {1, 2, 3, 2, 1};  // 3 is the unique element
+    int arr[] = {1,2,4,54,56,76,56,76,1,2,54};  // 3 is the unique element
     int size = sizeof(arr) / sizeof(arr[0]);
 
     cout << "Unique element is: " << findUnique(arr, size) << endl;
